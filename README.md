@@ -21,3 +21,5 @@ alur Pengerjaan
 10. Membuat Cart ✔
 11. Membuat Halaman Order User ✔
 12. Membuat Halaman Checkout User ✔
+12. Tidak Diperjual Belikan Untuk Source code berikut ✔
+13. Jika terdapat kesalahan pada code berikut silahkan gmail ke danis070904@gmail.com ✔
